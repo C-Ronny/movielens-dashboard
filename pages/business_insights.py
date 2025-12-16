@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import os
 from pathlib import Path
+from PIL import Image
 
 # ============================================================================
 # PAGE CONFIG
@@ -266,20 +267,27 @@ with tabs[1]:
     
     # Tag Analysis
     col1, col2 = st.columns([1, 1])
-    
+
     with col1:
         st.markdown("### 🏷️ Tag Sentiment Analysis")
         html_content = load_html_viz('assets/visualizations/content_performance/tag_sentiment.html')
         if html_content:
             st.components.v1.html(html_content, height=550, scrolling=False)
-    
+
     with col2:
         st.markdown("### ☁️ Popular Movie Tags")
+        
+        wordcloud_path = 'assets/visualizations/content_performance/tag_wordcloud.png'
+        
         try:
-            st.image('assets/visualizations/content_performance/tag_wordcloud.png', use_container_width=True)
-        except:
-            st.warning("Word cloud image not found.")
-    
+            img = Image.open(wordcloud_path)
+            st.image(img, use_column_width=True)
+        except FileNotFoundError:
+            st.error(f"❌ File not found: {wordcloud_path}")
+            st.info(f"📍 Current working directory: {os.getcwd()}")
+        except Exception as e:
+            st.error(f"❌ Error loading image: {type(e).__name__}: {e}")
+
     st.markdown("<hr style='margin: 2rem 0;'>", unsafe_allow_html=True)
     
     # Release Year Impact
