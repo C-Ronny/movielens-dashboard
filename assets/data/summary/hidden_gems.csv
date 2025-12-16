@@ -1,0 +1,195 @@
+movieId,title,genres,release_year,avg_rating,num_ratings,rating_std
+247466,Money Heist: The Phenomenon (2020),Documentary,2020.0,4.65,10,0.412
+102672,New York: A Documentary Film (1999),Documentary,1999.0,4.5,11,0.447
+206212,Evaru (2019),Crime|Thriller,2019.0,4.45,10,0.725
+279770,Kantara (2022),Action|Mystery|Thriller,2022.0,4.423,13,0.672
+242210,James Acaster: Cold Lasagne Hate Myself 1999 (2020),Comedy,2020.0,4.421,19,0.479
+223011,National Theatre Live: Fleabag (2019),Comedy,2019.0,4.406,16,0.584
+138024,"Michael Jackson: Dangerous Tour (Bucharest, 1992) (1992)",(no genres listed),1992.0,4.4,10,0.775
+171331,The Work of Director Chris Cunningham (2003),(no genres listed),2003.0,4.396,24,0.625
+259833,Come From Away (2021),Comedy|Drama,2021.0,4.342,19,0.602
+215615,Pink Floyd: Pulse (1995),Documentary,1995.0,4.318,11,0.751
+203847,Kumbalangi Nights (2019),Comedy|Drama|Romance,2019.0,4.306,18,0.518
+240686,Infinity Train (2016),Adventure|Animation,2016.0,4.3,10,0.632
+278928,Pamfir (2022),Drama,2022.0,4.3,10,0.587
+158294,Sillunu Oru Kaadhal (2006),Children|Romance,2006.0,4.25,10,0.858
+198003,U.S. Go Home (1994),Drama,1994.0,4.25,10,0.677
+256991,Adventure Time: Elements (2017),Adventure|Animation|Comedy|Fantasy,2017.0,4.25,12,0.892
+263965,Downton Abbey: Christmas Special 2015 (2015),Children|Drama|Romance,2015.0,4.25,16,0.658
+147124,The Roosevelts: An Intimate History (2014),Documentary,2014.0,4.239,46,0.999
+244836,The Present (2020),Drama,2020.0,4.231,13,0.484
+157278,The Sixties (2013),(no genres listed),2013.0,4.229,24,0.794
+249180,Violet Evergarden: The Movie (2020),Animation|Drama|Fantasy|Romance,2020.0,4.22,25,0.663
+239316,Can't Get You Out of My Head: An Emotional History of the Modern World (2021),Documentary,2021.0,4.213,47,0.649
+172725,The Secret Life of Chaos (2010),Documentary,2010.0,4.208,12,0.811
+189161,Born in the USSR: 21 Up (2005),(no genres listed),2005.0,4.208,12,0.838
+122282,Pride and Prejudice (1980),Comedy|Drama|Romance,1980.0,4.207,58,0.732
+126967,Letter from Siberia (1957),(no genres listed),1957.0,4.206,17,0.73
+172719,Notre Dame de Paris (1998),Drama|Romance,1998.0,4.2,15,1.222
+158970,Alone in the Wilderness Part II (2011),Documentary,2011.0,4.188,24,0.689
+135492,Kaaka Muttai (2015),(no genres listed),2015.0,4.184,19,0.975
+147825,For Some Inexplicable Reason (2014),Drama,2014.0,4.184,19,0.691
+48647,"Last Bolshevik, The (Tombeau d'Alexandre, Le) (1993)",Documentary,1993.0,4.182,11,0.751
+156601,The T.A.M.I. Show (1964),Documentary,1964.0,4.182,11,0.603
+149306,Jimi Plays Monterey (1986),(no genres listed),1986.0,4.179,14,1.203
+166465,"Thelonious Monk: Straight, No Chaser (1988)",Documentary,1988.0,4.179,14,0.723
+135440,Edifício Master (2002),Documentary,2002.0,4.175,20,1.029
+70722,"Good Men, Good Women (1995)",Drama|Romance,1995.0,4.167,12,0.615
+102742,Tie Xi Qu: West of the Tracks (Tiexi qu) (2003),Documentary,2003.0,4.167,12,0.537
+152185,Marie's Story (2014),Drama,2014.0,4.167,12,0.835
+166629,Köyden İndim Şehire (1974),Comedy|Drama,1974.0,4.167,12,0.537
+126947,Carriage to Vienna (1966),Drama|War,1966.0,4.167,15,0.748
+171769,Isle of Flowers (1989),Documentary,1989.0,4.167,87,0.865
+192953,Ghost in the Shell: Stand Alone Complex - Individual Eleven (2006),Animation|Sci-Fi,2006.0,4.16,50,0.889
+98002,"Madrid, 1987 (2011)",Drama,2011.0,4.154,13,0.851
+158827,All of My Heart (2015),Romance,2015.0,4.154,13,0.875
+165059,Charles Darwin and the Tree of Life (2009),Documentary,2009.0,4.154,13,0.474
+210111,Agent Sai Srinivasa Athreya (2019),Comedy|Crime|Mystery,2019.0,4.154,13,0.658
+174703,I Am So Proud of You (2008),Action|Animation|Sci-Fi|Thriller,2008.0,4.152,99,0.957
+86288,"Day the Universe Changed, The (1985)",Documentary,1985.0,4.15,10,0.709
+98273,"Last Trapper, The (Le dernier trappeur) (2004)",Adventure|Documentary,2004.0,4.15,10,0.58
+98996,Filming 'Othello' (1978),Documentary,1978.0,4.15,10,0.669
+98241,Starry starry night (Xing kong) (2011),Children|Drama|Fantasy,2011.0,4.143,14,0.602
+145753,Wodaabe: Herdsmen of the Sun (1989),Documentary,1989.0,4.143,14,0.663
+183329,Cuba and the Cameraman (2017),Documentary,2017.0,4.143,28,0.559
+283577,Past Lives (2023),Drama|Romance,2023.0,4.136,33,0.803
+174551,Obsession (1965),Comedy,1965.0,4.134,56,0.956
+156565,Amal (2007),Drama,2007.0,4.133,15,0.79
+150900,Top Gear: The Worst Car In the History of the World (2012),(no genres listed),2012.0,4.132,19,0.684
+188173,The Godfather Family: A Look Inside (1990),Action|Documentary|Drama,1990.0,4.13,23,0.92
+207247,My Thoughts Are Silent (2019),Comedy,2019.0,4.13,23,0.932
+90592,How to Die in Oregon (2011),Documentary|Drama,2011.0,4.13,73,0.764
+181497,Laughter and Grief by the White Sea (1988),Animation|Comedy|Drama,1988.0,4.125,12,1.047
+186275,Emilie Muller (1994),(no genres listed),1994.0,4.125,12,1.17
+195529,Mushishi: The Shadow That Devours the Sun (2014),Adventure|Animation|Fantasy,2014.0,4.121,33,1.076
+270366,The Beatles: Get Back - The Rooftop Concert (2022),Documentary,2022.0,4.12,25,0.845
+151681,Blood Brother (2013),Documentary,2013.0,4.115,13,1.102
+135541,Noodle (2007),Drama,2007.0,4.1,10,0.738
+143335,"Deprisa, Deprisa (1981)",Crime|Drama,1981.0,4.1,10,0.907
+157585,Anjali (1990),Children|Drama,1990.0,4.1,10,0.568
+178353,Nothing But a Man (1964),Drama,1964.0,4.1,10,0.699
+181365,Monty Python: Parrot Sketch Not Included (1989),Comedy,1989.0,4.1,10,0.81
+273005,Rise (2022),Comedy|Drama,2022.0,4.1,10,0.615
+165737,Accidentally Engaged (2016),Comedy|Romance,2016.0,4.1,15,1.004
+64418,"Man Named Pearl, A (2006)",Documentary,2006.0,4.1,20,0.788
+179915,1945 (2017),Drama,2017.0,4.1,25,0.559
+174841,Pandora's Box (1992),Drama,1992.0,4.095,21,1.056
+138908,The Pirates of Penzance (1980),Adventure|Comedy,1980.0,4.094,16,0.841
+89985,"Trap: What Happened to Our Dream of Freedom, The (2007)",Documentary,2007.0,4.094,85,0.918
+147833,Anthony Jeselnik: Caligula (2013),Comedy,2013.0,4.092,49,0.993
+157577,Deiva Thirumagal (2011),Children|Drama,2011.0,4.091,11,0.889
+158029,Prora (2012),Drama,2012.0,4.091,11,0.735
+162382,Love's Unending Legacy (2007),Drama|Romance,2007.0,4.091,11,0.944
+171385,Bizim Aile (1975),Children|Comedy|Drama,1975.0,4.091,11,0.375
+201432,Jacquot de Nantes (1991),Drama,1991.0,4.091,11,0.491
+208323,The Cave (2019),Documentary,2019.0,4.091,11,0.539
+53226,"Great War, The (Grande guerra, La) (1959)",Action|Adventure|Comedy|Drama|War,1959.0,4.09,39,0.857
+161113,Twenty Years Later (1985),(no genres listed),1985.0,4.088,17,0.755
+173309,Legend of the Galactic Heroes: Overture to a New War (1993),Sci-Fi,1993.0,4.088,17,1.019
+149412,Legend of the Galactic Heroes: My Conquest Is the Sea of Stars (1988),Animation|Sci-Fi,1988.0,4.086,35,0.862
+169954,Prohibition (2011),Documentary,2011.0,4.085,47,0.702
+197041,Double King (2017),Animation,2017.0,4.083,24,0.881
+158157,Little Forest: Winter/Spring (2015),Drama,2015.0,4.083,36,0.751
+140958,Next Goal Wins (2014),Documentary,2014.0,4.079,19,0.651
+30854,"River, The (He liu) (1997)",Drama,1997.0,4.076,33,0.945
+162464,The Fifth Seal (1976),Drama|War,1976.0,4.076,33,0.811
+147290,Seventeen Moments in Spring (1973),Adventure|Drama|War,1973.0,4.076,85,1.039
+184383,1987: When the Day Comes (2017),Drama|Thriller,2017.0,4.074,27,0.532
+150228,"Inner Worlds, Outer Worlds (2012)",Documentary,2012.0,4.071,14,1.141
+158244,Twisted (2013),Comedy,2013.0,4.071,14,0.646
+158258,The Battle of Chile - Part 1 (1975),Documentary,1975.0,4.071,14,0.874
+194192,The Real Inglorious Bastards (2012),Documentary,2012.0,4.066,38,0.798
+134244,Streetwise (1984),Documentary,1984.0,4.064,39,0.821
+167678,Superheroes: A Never-Ending Battle (2013),Documentary,2013.0,4.062,16,0.602
+195645,Something Useful (2017),Drama,2017.0,4.062,16,0.544
+140299,B-Movie: Lust & Sound in West-Berlin (2015),Documentary|Musical,2015.0,4.062,24,0.924
+192001,His Last Vow,(no genres listed),,4.061,41,0.792
+150696,Tomorrow (2015),Documentary,2015.0,4.052,29,0.88
+95425,"Map For Saturday, A (2007)",Documentary,2007.0,4.05,10,0.798
+140391,Pistol: The Birth of a Legend (1991),Children|Drama,1991.0,4.05,10,0.725
+141958,A Little Thing Called Love (2010),Comedy|Romance,2010.0,4.05,10,0.599
+161163,The Lost Valentine (2011),Drama|Romance,2011.0,4.05,10,0.926
+211932,The Adventures of Young Indiana Jones: Passion for Life (2000),Action|Adventure|Children|Drama,2000.0,4.05,10,0.798
+80337,Still Bill (2009),Documentary,2009.0,4.048,21,0.789
+196307,Flight of the Conchords: Live in London (2018),Comedy,2018.0,4.048,21,0.687
+224711,Fishing with John (1991),Comedy|Documentary,1991.0,4.048,21,0.934
+149822,The Work of Director Spike Jonze (2003),Documentary,2003.0,4.048,31,0.699
+189701,Us and Them (2018),Drama,2018.0,4.047,32,0.892
+82836,"Life of Reilly, The (2006)",Comedy,2006.0,4.045,11,0.723
+115176,Toute la mémoire du monde (1956),Documentary,1956.0,4.045,11,0.757
+233879,Marona's Fantastic Tale (2020),Animation|Children|Drama,2020.0,4.045,11,0.757
+153828,"Waiter, Scarper! (1981)",Comedy,1981.0,4.043,23,0.656
+180067,Louis Theroux: Extreme Love - Dementia (2012),Documentary,2012.0,4.042,12,0.656
+219561,Daniel Sloss: X (2019),Comedy|Documentary,2019.0,4.042,12,0.964
+102323,"Grin Without a Cat, A (Fond de l'air est rouge, Le) (1977)",Documentary,1977.0,4.038,13,1.127
+152944,Moszkva tér (2001),(no genres listed),2001.0,4.038,13,0.558
+154975,Merci Patron ! (2016),Comedy|Documentary,2016.0,4.038,13,0.594
+189159,Born in the USSR: 14 Up (1998),(no genres listed),1998.0,4.038,13,1.181
+201202,Joseph Campbell and the Power of Myth (1988),Documentary,1988.0,4.038,13,1.233
+82003,"Rendez-vous d'Anna, Les (Meetings of Anna, The) (1978)",Drama,1978.0,4.037,27,1.082
+194602,Dying to Survive (2018),Comedy|Drama,2018.0,4.037,27,1.109
+84248,"Organizer, The (I compagni) (1963)",Crime|Drama,1963.0,4.034,29,0.706
+174879,Three Men and a Leg (1997),Comedy,1997.0,4.034,29,0.886
+200950,Game of Thrones - Conquest & Rebellion (2017),Animation|Fantasy,2017.0,4.034,29,1.253
+116845,Valley Uprising (2014),Documentary,2014.0,4.034,73,0.761
+196973,The Shivering Truth (2018),Animation|Comedy,2018.0,4.031,16,0.846
+107061,Urusei Yatsura Movie 2: Beautiful Dreamer (Urusei Yatsura 2: Byûtifuru dorîmâ) (1984),Animation|Comedy|Fantasy,1984.0,4.031,32,0.671
+31954,Beautiful City (Shah-re ziba) (2004),Drama,2004.0,4.03,33,0.728
+156846,Vabank II (1985),Comedy|Crime,1985.0,4.029,34,0.843
+160590,Survive and Advance (2013),(no genres listed),2013.0,4.029,34,0.778
+157110,00 Schneider - Jagd auf Nihil Baxter (1994),Comedy|Crime,1994.0,4.028,18,0.848
+188155,The Godfather Legacy (2012),Documentary,2012.0,4.028,18,1.23
+211904,Dancing with the Birds (2019),Documentary,2019.0,4.028,18,0.866
+267374,The Velvet Queen (2021),Documentary,2021.0,4.028,18,0.717
+168282,George Carlin: Playin' with Your Head (1986),Comedy|Documentary,1986.0,4.021,47,1.128
+146323,Sharpe's Enemy (1994),Action|Adventure|War,1994.0,4.019,26,0.933
+165069,Baseball (1994),Documentary,1994.0,4.018,83,1.201
+281556,God's Crooked Lines (2022),Drama|Mystery|Thriller,2022.0,4.014,35,0.6
+156896,Sherpa (2015),Adventure|Documentary,2015.0,4.014,37,0.546
+95604,The War (2007),Documentary|War,2007.0,4.012,85,1.003
+91762,"Last Lions, The (2011)",Documentary,2011.0,4.01,51,0.919
+195671,An Elephant Sitting Still (2018),Drama,2018.0,4.006,80,0.94
+109441,Satanas (2007),Crime|Drama,2007.0,4.0,10,0.85
+142873,O Costa d'África (1954),Comedy,1954.0,4.0,10,0.0
+157563,Indru Netru Naalai (2015),Comedy|Sci-Fi,2015.0,4.0,10,0.882
+165825,The Way We Live Now (2001),Drama|Romance,2001.0,4.0,10,0.577
+179357,Hobbyhorse Revolution (2017),(no genres listed),2017.0,4.0,10,0.745
+183171,Halfon Hill Doesn't Answer (1976),Comedy,1976.0,4.0,10,1.027
+185959,Wajib (2017),Drama,2017.0,4.0,10,0.816
+186809,The Magnificent Butcher (1979),Action,1979.0,4.0,10,0.577
+196085,Dara Ó Briain: Craic Dealer (2012),Comedy,2012.0,4.0,10,0.745
+201821,Civilisation (1969),(no genres listed),1969.0,4.0,10,1.291
+201937,Love O2O (2016),Comedy|Drama|Romance,2016.0,4.0,10,0.913
+208249,Bobby Yeah (2011),Animation|Horror,2011.0,4.0,10,0.972
+238344,Red Post on Escher Street (2020),Comedy|Drama,2020.0,4.0,10,0.577
+99089,Poor Little Rich Girl (1936),Adventure|Musical|Romance,1936.0,4.0,11,0.548
+135180,K2: Siren of the Himalayas (2012),Adventure|Documentary,2012.0,4.0,11,0.548
+158290,Kaakha Kaakha (2003),Action|Crime|Thriller,2003.0,4.0,11,1.483
+159017,Adolf Hitler: The Greatest Story Never Told (2013),Documentary,2013.0,4.0,11,1.83
+161294,The Adversary (1970),(no genres listed),1970.0,4.0,11,0.894
+179759,The Lost Letter (1972),Comedy|Fantasy,1972.0,4.0,11,1.072
+188765,Polish Legends: Operacja Bazyliszek (2016),Sci-Fi,2016.0,4.0,11,0.707
+249136,June Again (2021),Comedy|Drama,2021.0,4.0,11,0.632
+116945,Freedom (2009),Drama,2009.0,4.0,12,0.564
+147130,The French Revolution (1989),(no genres listed),1989.0,4.0,12,0.769
+157348,"My Love, Don't Cross That River (2014)",Documentary,2014.0,4.0,12,0.977
+158807,Paths of the Soul (2015),(no genres listed),2015.0,4.0,12,0.707
+174889,"Accidental Courtesy: Daryl Davis, Race & America (2016)",Documentary,2016.0,4.0,12,0.603
+181705,National Theatre Live: Hamlet (2015),Drama|Romance,2015.0,4.0,12,1.279
+191475,The Best Two Years (2003),Comedy|Drama,2003.0,4.0,12,0.953
+207095,Windy City Heat (2003),Comedy|Documentary,2003.0,4.0,12,0.674
+158894,Love on the Sidelines (2016),Comedy|Romance,2016.0,4.0,13,0.866
+26416,Best Boy (1979),Documentary,1979.0,4.0,14,0.65
+139938,Brancaleone alle crociate (1970),Comedy,1970.0,4.0,14,0.784
+158264,The Battle of Chile - Part 2 (1977),Documentary,1977.0,4.0,14,0.855
+159359,The Day Will Come (2016),Drama,2016.0,4.0,14,0.555
+281918,The Eight Mountains (2022),Drama,2022.0,4.0,14,0.76
+172905,The Idiot (2003),(no genres listed),2003.0,4.0,15,1.134
+77181,"Ascent of Money, The (2008)",Documentary,2008.0,4.0,16,0.707
+172631,Simon's Cat (2012),(no genres listed),2012.0,4.0,17,1.186
+175149,Fool's Day (2013),Comedy|Drama,2013.0,4.0,17,0.81
+26826,Latcho Drom (1993),Documentary|Musical,1993.0,4.0,24,0.967
+167388,The Cube (1969),Drama,1969.0,4.0,25,0.878
+133333,DamNation (2014),Documentary,2014.0,4.0,26,1.039
+147144,Hachi-ko (1987),(no genres listed),1987.0,4.0,35,0.985
+168760,Cosy Dens (1999),Comedy|Drama,1999.0,4.0,49,0.935

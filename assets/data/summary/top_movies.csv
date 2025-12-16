@@ -1,0 +1,101 @@
+movieId,avg_rating,num_ratings,rating_std,title,genres,release_year,content_type
+171011,4.452,2041,0.815,Planet Earth II (2016),Documentary,2016.0,Mainstream
+159817,4.448,3015,0.759,Planet Earth (2006),Documentary,2006.0,Mainstream
+170705,4.424,2835,0.774,Band of Brothers (2001),Action|Drama|War,2001.0,Mainstream
+318,4.417,122296,0.77,"Shawshank Redemption, The (1994)",Crime|Drama,1994.0,Mainstream
+171495,4.343,625,0.93,Cosmos,(no genres listed),,Mid-tier
+202439,4.33,12399,0.772,Parasite (2019),Comedy|Drama,2019.0,Mainstream
+858,4.327,75004,0.874,"Godfather, The (1972)",Crime|Drama,1972.0,Mainstream
+179135,4.313,1267,0.919,Blue Planet II (2017),Documentary,2017.0,Mainstream
+220528,4.306,332,0.735,Twelve Angry Men (1954),Drama,1954.0,Mid-tier
+198185,4.303,1132,0.867,Twin Peaks (1989),Drama|Mystery,1989.0,Mainstream
+1221,4.27,47271,0.876,"Godfather: Part II, The (1974)",Crime|Drama,1974.0,Mainstream
+50,4.268,72893,0.795,"Usual Suspects, The (1995)",Crime|Mystery|Thriller,1995.0,Mainstream
+1203,4.267,22730,0.78,12 Angry Men (1957),Drama,1957.0,Mainstream
+182723,4.26,599,0.889,Cosmos: A Spacetime Odissey,(no genres listed),,Mid-tier
+163809,4.257,1430,0.897,Over the Garden Wall (2013),Adventure|Animation|Drama,2013.0,Mainstream
+286897,4.253,528,0.866,Spider-Man: Across the Spider-Verse (2023),Action|Adventure|Animation|Sci-Fi,2023.0,Mid-tier
+2019,4.251,17120,0.863,Seven Samurai (Shichinin no samurai) (1954),Action|Adventure|Drama,1954.0,Mainstream
+142115,4.25,1080,0.915,The Blue Planet (2001),Documentary,2001.0,Mainstream
+527,4.242,84232,0.888,Schindler's List (1993),Drama|War,1993.0,Mainstream
+2959,4.236,86207,0.861,Fight Club (1999),Action|Crime|Drama|Thriller,1999.0,Mainstream
+166024,4.232,3054,0.757,Whiplash (2013),(no genres listed),2013.0,Mainstream
+5618,4.226,35375,0.91,Spirited Away (Sen to Chihiro no kamikakushi) (2001),Adventure|Animation|Fantasy,2001.0,Mainstream
+176601,4.225,1059,0.993,Black Mirror,(no genres listed),,Mainstream
+904,4.223,26064,0.787,Rear Window (1954),Mystery|Thriller,1954.0,Mainstream
+105250,4.222,397,1.013,"Century of the Self, The (2002)",Documentary,2002.0,Mid-tier
+1193,4.213,49316,0.797,One Flew Over the Cuckoo's Nest (1975),Drama,1975.0,Mainstream
+122282,4.207,58,0.732,Pride and Prejudice (1980),Comedy|Drama|Romance,1980.0,Niche
+44555,4.201,12626,0.789,"Lives of Others, The (Das leben der Anderen) (2006)",Drama|Romance|Thriller,2006.0,Mainstream
+750,4.2,34324,0.889,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964),Comedy|War,1964.0,Mainstream
+912,4.196,34813,0.905,Casablanca (1942),Drama|Romance,1942.0,Mainstream
+157373,4.194,328,0.932,It's Such a Beautiful Day (2011),Animation|Comedy|Drama,2011.0,Mid-tier
+296,4.192,108756,0.954,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller,1994.0,Mainstream
+1213,4.192,44592,0.803,Goodfellas (1990),Crime|Drama,1990.0,Mainstream
+26082,4.192,1282,0.958,Harakiri (Seppuku) (1962),Drama,1962.0,Mainstream
+195159,4.192,10885,0.922,Spider-Man: Into the Spider-Verse (2018),Action|Adventure|Animation|Sci-Fi,2018.0,Mainstream
+922,4.19,9627,0.876,Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,1950.0,Mainstream
+58559,4.188,65349,0.896,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX,2008.0,Mainstream
+908,4.187,21883,0.785,North by Northwest (1959),Action|Adventure|Mystery|Romance|Thriller,1959.0,Mainstream
+3435,4.186,6789,0.817,Double Indemnity (1944),Crime|Drama|Film-Noir,1944.0,Mainstream
+6016,4.184,27209,0.846,City of God (Cidade de Deus) (2002),Action|Adventure|Crime|Drama|Thriller,2002.0,Mainstream
+1212,4.182,9277,0.857,"Third Man, The (1949)",Film-Noir|Mystery|Thriller,1949.0,Mainstream
+100044,4.182,498,0.883,Human Planet (2011),Documentary,2011.0,Mid-tier
+1178,4.18,5604,0.835,Paths of Glory (1957),Drama|War,1957.0,Mainstream
+79132,4.176,65056,0.842,Inception (2010),Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX,2010.0,Mainstream
+228099,4.174,895,0.872,Firefly (2002),Action|Adventure|Sci-Fi|Western,2002.0,Mid-tier
+6818,4.173,1501,0.96,Come and See (Idi i smotri) (1985),Drama|War,1985.0,Mainstream
+163134,4.168,3940,0.865,Your Name. (2016),Animation|Drama|Fantasy|Romance,2016.0,Mainstream
+3030,4.167,5208,0.861,Yojimbo (1961),Action|Adventure,1961.0,Mainstream
+171769,4.167,87,0.865,Isle of Flowers (1989),Documentary,1989.0,Niche
+3000,4.166,18226,0.862,Princess Mononoke (Mononoke-hime) (1997),Action|Adventure|Animation|Drama|Fantasy,1997.0,Mainstream
+2324,4.164,32435,0.934,Life Is Beautiful (La Vita è bella) (1997),Comedy|Drama|Romance|War,1997.0,Mainstream
+5971,4.163,14010,0.858,My Neighbor Totoro (Tonari no Totoro) (1988),Animation|Children|Drama|Fantasy,1988.0,Mainstream
+7926,4.163,1259,0.853,High and Low (Tengoku to jigoku) (1963),Crime|Drama|Film-Noir|Thriller,1963.0,Mainstream
+26587,4.163,673,0.99,"Decalogue, The (Dekalog) (1989)",Crime|Drama|Romance,1989.0,Mid-tier
+926,4.161,6257,0.877,All About Eve (1950),Drama,1950.0,Mainstream
+2571,4.161,107056,0.915,"Matrix, The (1999)",Action|Sci-Fi|Thriller,1999.0,Mainstream
+160718,4.16,2007,0.894,Piper (2016),Animation,2016.0,Mainstream
+192953,4.16,50,0.889,Ghost in the Shell: Stand Alone Complex - Individual Eleven (2006),Animation|Sci-Fi,2006.0,Niche
+146327,4.158,177,0.964,Can't Change the Meeting Place (1979),Action|Crime,1979.0,Mid-tier
+112552,4.157,20947,0.872,Whiplash (2014),Drama,2014.0,Mainstream
+170777,4.154,433,1.106,There Once Was a Dog (1982),Animation|Children|Comedy,1982.0,Mid-tier
+1260,4.153,5934,0.881,M (1931),Crime|Film-Noir|Thriller,1931.0,Mainstream
+174703,4.152,99,0.957,I Am So Proud of You (2008),Action|Animation|Sci-Fi|Thriller,2008.0,Niche
+593,4.15,101802,0.873,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller,1991.0,Mainstream
+930,4.149,6186,0.796,Notorious (1946),Film-Noir|Romance|Thriller,1946.0,Mainstream
+92475,4.148,233,0.97,All Watched Over by Machines of Loving Grace (2011),Documentary,2011.0,Mid-tier
+109487,4.147,40603,0.894,Interstellar (2014),Sci-Fi|IMAX,2014.0,Mainstream
+4226,4.144,55649,0.8,Memento (2000),Mystery|Thriller,2000.0,Mainstream
+1252,4.143,22042,0.85,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller,1974.0,Mainstream
+1284,4.143,7038,0.836,"Big Sleep, The (1946)",Crime|Film-Noir|Mystery,1946.0,Mainstream
+1217,4.14,6528,0.88,Ran (1985),Drama|War,1985.0,Mainstream
+950,4.139,3976,0.833,"Thin Man, The (1934)",Comedy|Crime,1934.0,Mainstream
+2920,4.138,1285,1.061,Children of Paradise (Les enfants du paradis) (1945),Drama|Romance,1945.0,Mainstream
+1136,4.137,47845,0.904,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy,1975.0,Mainstream
+1234,4.137,19514,0.794,"Sting, The (1973)",Comedy|Crime,1973.0,Mainstream
+1207,4.136,19720,0.859,To Kill a Mockingbird (1962),Drama,1962.0,Mainstream
+2329,4.135,41055,0.769,American History X (1998),Crime|Drama,1998.0,Mainstream
+48516,4.135,36481,0.774,"Departed, The (2006)",Crime|Drama|Thriller,2006.0,Mainstream
+134796,4.134,138,0.849,Bitter Lake (2015),Documentary,2015.0,Mid-tier
+174551,4.134,56,0.956,Obsession (1965),Comedy,1965.0,Niche
+131724,4.133,1372,0.91,The Jinx: The Life and Deaths of Robert Durst (2015),Documentary,2015.0,Mainstream
+1201,4.132,23823,0.844,"Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il) (1966)",Action|Adventure|Western,1966.0,Mainstream
+92259,4.131,20061,0.91,Intouchables (2011),Comedy|Drama,2011.0,Mainstream
+170355,4.131,1487,0.883,Mulholland Dr. (1999),Drama|Mystery|Romance,1999.0,Mainstream
+90592,4.13,73,0.764,How to Die in Oregon (2011),Documentary|Drama,2011.0,Niche
+169906,4.13,1140,0.76,The Night Of (2016),Crime|Drama,2016.0,Mainstream
+93040,4.129,557,1.152,"Civil War, The (1990)",Documentary|War,1990.0,Mid-tier
+147250,4.129,182,0.967,The Adventures of Sherlock Holmes and Doctor Watson,(no genres listed),,Mid-tier
+1248,4.126,5915,0.872,Touch of Evil (1958),Crime|Film-Noir|Thriller,1958.0,Mainstream
+173535,4.124,125,0.973,The Adventures of Sherlock Holmes and Doctor Watson: The Hunt for the Tiger (1980),(no genres listed),1980.0,Mid-tier
+1147,4.123,4207,0.861,When We Were Kings (1996),Documentary,1996.0,Mainstream
+1172,4.123,12180,0.925,Cinema Paradiso (Nuovo cinema Paradiso) (1989),Drama,1989.0,Mainstream
+48780,4.123,34046,0.774,"Prestige, The (2006)",Drama|Mystery|Sci-Fi|Thriller,2006.0,Mainstream
+252710,4.122,263,1.027,Attack On Titan (2013),Action|Adventure|Animation|Fantasy|Sci-Fi,2013.0,Mid-tier
+670,4.12,918,1.148,"World of Apu, The (Apur Sansar) (1959)",Drama,1959.0,Mid-tier
+913,4.12,15630,0.866,"Maltese Falcon, The (1941)",Film-Noir|Mystery,1941.0,Mainstream
+160289,4.12,681,0.987,O.J.: Made in America (2016),Documentary,2016.0,Mid-tier
+31658,4.119,16471,0.88,Howl's Moving Castle (Hauru no ugoku shiro) (2004),Adventure|Animation|Fantasy|Romance,2004.0,Mainstream
+1196,4.118,80200,0.975,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi,1980.0,Mainstream
+6669,4.118,2096,0.997,Ikiru (1952),Drama,1952.0,Mainstream
