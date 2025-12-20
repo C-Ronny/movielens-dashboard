@@ -213,20 +213,7 @@ with col1:
         As Data Scientists for a leading streaming platform, we analyzed <strong>33.8 million ratings</strong> 
         from <strong>331,000 users</strong> across <strong>86,000 movies</strong> to extract actionable insights 
         for content strategy, user engagement, and personalized recommendations.
-        </p>
-        
-        <h3 style='margin-top: 1.5rem;'>Key Deliverables</h3>
-        <ul style='font-size: 1.05rem; line-height: 1.8;'>
-            <li>📊 <strong>Business Insights Dashboard</strong> - User behavior, content performance, temporal patterns</li>
-            <li>🤖 <strong>ML Recommendation System</strong> - Multiple algorithms (KNN, Logistic Regression, Random Forest)</li>
-            <li>🎨 <strong>User Segmentation</strong> - K-Means clustering for personalized experiences</li>
-            <li>💎 <strong>Hidden Gems Discovery</strong> - High-quality, underexposed content identification</li>
-        </ul>
-        
-        <h3 style='margin-top: 1.5rem;'>Technical Stack</h3>
-        <p style='font-size: 1.05rem;'>
-        Python • Pandas • Scikit-learn • Plotly • Streamlit • Google Colab • GitHub
-        </p>
+        </p>       
     </div>
     """, unsafe_allow_html=True)
 
