@@ -163,7 +163,7 @@ st.markdown("<hr>", unsafe_allow_html=True)
 # KEY METRICS
 # ============================================================================
 
-st.markdown("<h2 style='text-align: center; margin-top: 2rem;'>📊 PLATFORM OVERVIEW</h2>", unsafe_allow_html=True)
+st.markdown("<h2 style='text-align: center; margin-top: 2rem;'>PLATFORM OVERVIEW</h2>", unsafe_allow_html=True)
 
 col1, col2, col3, col4 = st.columns(4)
 
@@ -204,7 +204,7 @@ st.markdown("<hr>", unsafe_allow_html=True)
 col1, col2 = st.columns([2, 1])
 
 with col1:
-    st.markdown("<h2>🎯 PROJECT OVERVIEW</h2>", unsafe_allow_html=True)
+    st.markdown("<h2>PROJECT OVERVIEW</h2>", unsafe_allow_html=True)
     
     st.markdown("""
     <div style='background-color: #1a1a1a; padding: 2rem; border-radius: 8px; border: 1px solid #333;'>
@@ -218,7 +218,7 @@ with col1:
     """, unsafe_allow_html=True)
 
 with col2:
-    st.markdown("<h2>🗂️ NAVIGATION</h2>", unsafe_allow_html=True)
+    st.markdown("<h2>NAVIGATION</h2>", unsafe_allow_html=True)
     
     st.markdown("""
     <div style='background-color: #1a1a1a; padding: 2rem; border-radius: 8px; border: 1px solid #333;'>
@@ -260,7 +260,7 @@ st.markdown("<hr>", unsafe_allow_html=True)
 # KEY INSIGHTS PREVIEW
 # ============================================================================
 
-st.markdown("<h2 style='text-align: center;'>🔍 KEY INSIGHTS</h2>", unsafe_allow_html=True)
+st.markdown("<h2 style='text-align: center;'>KEY INSIGHTS</h2>", unsafe_allow_html=True)
 
 col1, col2, col3 = st.columns(3)
 
@@ -276,9 +276,10 @@ with col1:
 
 with col2:
     st.markdown("""
-    <div style='background-color: #1a1a1a; padding: 1.5rem; border-radius: 8px; border-left: 4px solid #E50914; height: 200px;'>
+    <div style='background-color: #1a1a1a; padding: 1.5rem; border-radius: 8px; border-left: 4px solid #E50914; min-height: 200px;'>
         <h3>🎬 Content Insights</h3>
         <p>• Film-Noir highest rated genre (4.0★)</p>
+        <p>• IMAX format: +1.9% rating boost</p>
         <p>• 1940s golden age of cinema</p>
         <p>• 194 hidden gems discovered</p>
     </div>
@@ -313,7 +314,7 @@ with col2:
     </div>
     """, unsafe_allow_html=True)
     
-    if st.button("📊 GO TO BUSINESS INSIGHTS", use_container_width=True):
+    if st.button("Go to Business Insights", use_container_width=True):
         st.switch_page("pages/business_insights.py")
 
 # ============================================================================
@@ -324,10 +325,8 @@ st.markdown("<hr>", unsafe_allow_html=True)
 
 st.markdown("""
 <div style='text-align: center; padding: 2rem; color: #666;'>
-    <p>Machine Learning Final Assessment | MovieLens 33M Dataset</p>
+    <p></p>
     <p>Built with Streamlit • Plotly • Pandas • Scikit-learn</p>
-    <p style='font-size: 0.9rem; margin-top: 1rem;'>
-        Data Source: <a href='https://grouplens.org/datasets/movielens/'>GroupLens Research</a>
-    </p>
+    
 </div>
 """, unsafe_allow_html=True)

@@ -166,7 +166,7 @@ with tabs[0]:
     """, unsafe_allow_html=True)
     
     # User Behavior Overview
-    st.markdown("### 📊 User Rating Distribution")
+    st.markdown("### User Rating Distribution")
     html_content = load_html_viz('assets/visualizations/user_behavior/overview.html')
     if html_content:
         st.components.v1.html(html_content, height=550, scrolling=False)
@@ -174,7 +174,7 @@ with tabs[0]:
     st.markdown("<hr style='margin: 2rem 0;'>", unsafe_allow_html=True)
     
     # Temporal Trends
-    st.markdown("### 📈 Rating Trends Over Time (1995-2023)")
+    st.markdown("### Rating Trends Over Time (1995-2023)")
     html_content = load_html_viz('assets/visualizations/user_behavior/temporal_trends.html')
     if html_content:
         st.components.v1.html(html_content, height=850, scrolling=False)
@@ -182,7 +182,7 @@ with tabs[0]:
     st.markdown("<hr style='margin: 2rem 0;'>", unsafe_allow_html=True)
     
     # User Retention
-    st.markdown("### 🔄 User Retention Analysis")
+    st.markdown("### User Retention Analysis")
     html_content = load_html_viz('assets/visualizations/user_behavior/retention.html')
     if html_content:
         st.components.v1.html(html_content, height=550, scrolling=False)
@@ -193,20 +193,20 @@ with tabs[0]:
     col1, col2 = st.columns(2)
     
     with col1:
-        st.markdown("### 📅 Monthly Activity Patterns")
+        st.markdown("### Monthly Activity Patterns")
         html_content = load_html_viz('assets/visualizations/user_behavior/monthly_patterns.html')
         if html_content:
             st.components.v1.html(html_content, height=550, scrolling=False)
     
     with col2:
-        st.markdown("### 🕐 Hourly Activity Patterns")
+        st.markdown("### Hourly Activity Patterns")
         html_content = load_html_viz('assets/visualizations/user_behavior/hourly_patterns.html')
         if html_content:
             st.components.v1.html(html_content, height=550, scrolling=False)
     
     # Key Insights
     st.markdown("<hr style='margin: 2rem 0;'>", unsafe_allow_html=True)
-    st.markdown("### 🎯 Key Insights")
+    st.markdown("### Key Insights")
     
     col1, col2, col3 = st.columns(3)
     
@@ -256,7 +256,7 @@ with tabs[1]:
     """, unsafe_allow_html=True)
     
     # Genre Performance
-    st.markdown("### 🎭 Genre Performance Analysis")
+    st.markdown("### Genre Performance Analysis")
     html_content = load_html_viz('assets/visualizations/content_performance/genre_performance.html')
     if html_content:
         st.components.v1.html(html_content, height=700, scrolling=False)
@@ -269,13 +269,13 @@ with tabs[1]:
     col1, col2 = st.columns([1, 1])
 
     with col1:
-        st.markdown("### 🏷️ Tag Sentiment Analysis")
+        st.markdown("### Tag Sentiment Analysis")
         html_content = load_html_viz('assets/visualizations/content_performance/tag_sentiment.html')
         if html_content:
             st.components.v1.html(html_content, height=550, scrolling=False)
 
     with col2:
-        st.markdown("### ☁️ Popular Movie Tags")
+        st.markdown("### Popular Movie Tags")
         
         wordcloud_path = 'assets/visualizations/content_performance/tag_wordcloud.png'
         
@@ -291,7 +291,7 @@ with tabs[1]:
     st.markdown("<hr style='margin: 2rem 0;'>", unsafe_allow_html=True)
     
     # Release Year Impact
-    st.markdown("### 📅 Release Year Impact Analysis")
+    st.markdown("### Release Year Impact Analysis")
     html_content = load_html_viz('assets/visualizations/content_performance/release_year_impact.html')
     if html_content:
         st.components.v1.html(html_content, height=900, scrolling=False)
@@ -299,14 +299,35 @@ with tabs[1]:
     st.markdown("<hr style='margin: 2rem 0;'>", unsafe_allow_html=True)
     
     # Polarization Analysis
-    st.markdown("### 📊 Movie Polarization Analysis")
+    st.markdown("### Movie Polarization Analysis")
     html_content = load_html_viz('assets/visualizations/content_performance/polarization.html')
     if html_content:
         st.components.v1.html(html_content, height=650, scrolling=False)
     
+    # Premium Effect - IMAX Insight
+    st.markdown("<hr style='margin: 2rem 0;'>", unsafe_allow_html=True)
+    st.markdown("### Premium Effect: Technical Format Impact")
+    
+    st.markdown("""
+    Technical format significantly influences subscriber satisfaction. IMAX-formatted movies demonstrate 
+    measurable performance advantages over standard releases.
+    """)
+    
+    st.markdown("**Key Data Points:**")
+    st.markdown("- **Statistical Outperformance:** IMAX-formatted movies outperform standard releases by **1.9%**")
+    st.markdown("- **Rating Comparison:** IMAX titles hold an average rating of **3.607 stars**, compared to **3.539 stars** for standard releases")
+    st.markdown("- **Statistical Significance:** The difference in ratings is statistically valid, with a **p-value under 0.05**")
+    
+    st.markdown("**Strategic Recommendation:**")
+    st.markdown("""
+    **Content Acquisition Strategy:** The platform should prioritize licensing IMAX-format releases 
+    when possible to maximize user satisfaction and engagement. This premium format investment directly correlates 
+    with improved subscriber experience.
+    """)
+    
     # Key Insights
     st.markdown("<hr style='margin: 2rem 0;'>", unsafe_allow_html=True)
-    st.markdown("### 🎯 Key Insights")
+    st.markdown("### Key Insights")
     
     col1, col2, col3 = st.columns(3)
     
@@ -356,7 +377,7 @@ with tabs[2]:
     """, unsafe_allow_html=True)
     
     # Hidden Gems Visualization
-    st.markdown("### 🏆 Top Hidden Gems")
+    st.markdown("### Top Hidden Gems")
     html_content = load_html_viz('assets/visualizations/hidden_gems/gems_analysis.html')
     if html_content:
         st.components.v1.html(html_content, height=800, scrolling=False)
@@ -365,7 +386,7 @@ with tabs[2]:
     
     # Hidden Gems Table
     if data and 'hidden_gems' in data:
-        st.markdown("### 📋 Hidden Gems Database")
+        st.markdown("### Hidden Gems Database")
         
         hidden_gems_df = data['hidden_gems'].head(50)
         
@@ -406,7 +427,7 @@ with tabs[3]:
     """, unsafe_allow_html=True)
     
     # User Personas Visualization
-    st.markdown("### 🎨 User Persona Distribution")
+    st.markdown("### User Persona Distribution")
     html_content = load_html_viz('assets/visualizations/user_personas/persona_clusters.html')
     if html_content:
         st.components.v1.html(html_content, height=800, scrolling=False)
@@ -414,7 +435,7 @@ with tabs[3]:
     st.markdown("<hr style='margin: 2rem 0;'>", unsafe_allow_html=True)
     
     # Persona Descriptions
-    st.markdown("### 📊 Persona Profiles")
+    st.markdown("### Persona Profiles")
     
     col1, col2 = st.columns(2)
     
@@ -534,7 +555,6 @@ st.markdown("<hr>", unsafe_allow_html=True)
 
 st.markdown("""
 <div style='text-align: center; padding: 2rem; color: #666;'>
-    <p>Business Insights Dashboard | MovieLens 33M Dataset Analysis</p>
-    <p>Machine Learning Final Project | 2024</p>
+    <p>Business Insights Dashboard | MovieLens 33M Dataset Analysis</p>    
 </div>
 """, unsafe_allow_html=True)
